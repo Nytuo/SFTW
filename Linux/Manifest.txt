@@ -1,0 +1,14 @@
+Manifest_NonUFSFiles_Linux.txt,0,1065
+RiffleDivision.sh,0,308
+SFTW_Version.txt,0,11
+Engine\Binaries\ThirdParty\PhysX3\Linux\x86_64-unknown-linux-gnu\libApexCommon.so,0,524824
+Engine\Binaries\ThirdParty\PhysX3\Linux\x86_64-unknown-linux-gnu\libApexFramework.so,0,1165072
+Engine\Binaries\ThirdParty\PhysX3\Linux\x86_64-unknown-linux-gnu\libApexShared.so,0,1044960
+Engine\Binaries\ThirdParty\PhysX3\Linux\x86_64-unknown-linux-gnu\libAPEX_Clothing.so,0,1358048
+Engine\Binaries\ThirdParty\PhysX3\Linux\x86_64-unknown-linux-gnu\libAPEX_Legacy.so,0,9721816
+Engine\Binaries\ThirdParty\PhysX3\Linux\x86_64-unknown-linux-gnu\libNvParameterized.so,0,430792
+Engine\Binaries\ThirdParty\PhysX3\Linux\x86_64-unknown-linux-gnu\libRenderDebug.so,0,265192
+RiffleDivision\Binaries\Linux\RiffleDivision-Linux-Shipping,0,91380872
+RiffleDivision\Content\Movies\Intro Clean RealBlack.mp4,0,765752
+RiffleDivision\Content\Movies\UE4_Moving_Logo_1080_60.mp4,0,4160699
+RiffleDivision\Content\Paks\RiffleDivision-LinuxNoEditor.pak,0,56391951

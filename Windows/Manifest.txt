@@ -1,0 +1,24 @@
+Manifest_NonUFSFiles_Win64.txt,0,1822
+RiffleDivision.exe,0,190464
+SFTW_Version.txt,0,11
+Engine\Binaries\ThirdParty\DbgHelp\dbghelp.dll,0,1868736
+Engine\Binaries\ThirdParty\NVIDIA\NVaftermath\Win64\GFSDK_Aftermath_Lib.x64.dll,0,117760
+Engine\Binaries\ThirdParty\Ogg\Win64\VS2015\libogg_64.dll,0,49152
+Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\ApexFramework_x64.dll,0,1043968
+Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEX_Clothing_x64.dll,0,1219072
+Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\APEX_Legacy_x64.dll,0,3329536
+Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\NvCloth_x64.dll,0,265728
+Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3Common_x64.dll,0,1598976
+Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3Cooking_x64.dll,0,244736
+Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PhysX3_x64.dll,0,2105344
+Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PxFoundation_x64.dll,0,54784
+Engine\Binaries\ThirdParty\PhysX3\Win64\VS2015\PxPvdSDK_x64.dll,0,188928
+Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbisfile_64.dll,0,37888
+Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbis_64.dll,0,1714176
+Engine\Binaries\ThirdParty\Windows\XAudio2_9\x64\xaudio2_9redist.dll,0,847440
+Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe,0,41033784
+RiffleDivision\Binaries\Win64\RiffleDivision-Win64-Shipping.exe,0,73367552
+RiffleDivision\Binaries\Win64\turbojpeg.dll,0,726016
+RiffleDivision\Content\Movies\Intro Clean RealBlack.mp4,0,765752
+RiffleDivision\Content\Movies\UE4_Moving_Logo_1080_60.mp4,0,4160699
+RiffleDivision\Content\Paks\RiffleDivision-WindowsNoEditor.pak,0,40941854
