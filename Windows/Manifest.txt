@@ -17,8 +17,8 @@ Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbisfile_64.dll,0,37888
 Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbis_64.dll,0,1714176
 Engine\Binaries\ThirdParty\Windows\XAudio2_9\x64\xaudio2_9redist.dll,0,847440
 Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe,0,41033784
-RiffleDivision\Binaries\Win64\RiffleDivision-Win64-Shipping.exe,0,73367552
+RiffleDivision\Binaries\Win64\RiffleDivision-Win64-Shipping.exe,0,73397760
 RiffleDivision\Binaries\Win64\turbojpeg.dll,0,726016
 RiffleDivision\Content\Movies\Intro Clean RealBlack.mp4,0,765752
 RiffleDivision\Content\Movies\UE4_Moving_Logo_1080_60.mp4,0,4160699
-RiffleDivision\Content\Paks\RiffleDivision-WindowsNoEditor.pak,0,40941854
+RiffleDivision\Content\Paks\RiffleDivision-WindowsNoEditor.pak,0,55961979

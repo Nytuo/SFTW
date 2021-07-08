@@ -8,7 +8,7 @@ Engine\Binaries\ThirdParty\PhysX3\Linux\x86_64-unknown-linux-gnu\libAPEX_Clothin
 Engine\Binaries\ThirdParty\PhysX3\Linux\x86_64-unknown-linux-gnu\libAPEX_Legacy.so,0,9721816
 Engine\Binaries\ThirdParty\PhysX3\Linux\x86_64-unknown-linux-gnu\libNvParameterized.so,0,430792
 Engine\Binaries\ThirdParty\PhysX3\Linux\x86_64-unknown-linux-gnu\libRenderDebug.so,0,265192
-RiffleDivision\Binaries\Linux\RiffleDivision-Linux-Shipping,0,91380872
+RiffleDivision\Binaries\Linux\RiffleDivision-Linux-Shipping,0,91417800
 RiffleDivision\Content\Movies\Intro Clean RealBlack.mp4,0,765752
 RiffleDivision\Content\Movies\UE4_Moving_Logo_1080_60.mp4,0,4160699
-RiffleDivision\Content\Paks\RiffleDivision-LinuxNoEditor.pak,0,56391951
+RiffleDivision\Content\Paks\RiffleDivision-LinuxNoEditor.pak,0,72496632

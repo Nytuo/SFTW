@@ -1,4 +1,4 @@
-RiffleDivision/Binaries/Win64/RiffleDivision-Win64-Shipping.exe	2021-06-26T18:54:38.016Z
+RiffleDivision/Binaries/Win64/RiffleDivision-Win64-Shipping.exe	2021-07-08T12:02:48.082Z
 RiffleDivision/Binaries/Win64/turbojpeg.dll	2021-05-14T16:48:24.029Z
 Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2021-05-14T16:44:19.267Z
 Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2021-05-14T16:42:08.677Z
@@ -18,4 +18,4 @@ Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2021-05-14T16:42:32.077Z
 RiffleDivision/Content/Movies/Intro Clean RealBlack.mp4	2021-06-26T18:28:03.756Z
 RiffleDivision/Content/Movies/UE4_Moving_Logo_1080_60.mp4	2021-06-26T18:28:13.314Z
-RiffleDivision.exe	2021-06-26T18:54:50.740Z
+RiffleDivision.exe	2021-07-08T18:38:42.354Z
